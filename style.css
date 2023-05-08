@@ -2,7 +2,7 @@ body{
     background: cadetblue;
 }
 h1{
-    font-size: 50px;;
+    font-size: 60px;;
     text-shadow: 5px 5px 0px black;
     color: white;
 }
@@ -23,16 +23,20 @@ img{
 
 }
 p{
-    font-size: 25px;
+    font-size: 30px;
     margin-left: auto;
     color: white;
 }
 
 h3{
-    font-size: 30px;
+    font-size: 40px;
     color: purple;
 }
 
 #hobbies{
-    font-size: 25px;
+    font-size: 35px;
+}
+
+#edu{
+    font-size: 30px;
 }
