@@ -1,11 +1,19 @@
 body{
-    background: white;
+    background: cadetblue;
 }
 h1{
     font-size: 50px;;
+    text-shadow: 5px 5px 0px black;
+    color: white;
 }
 h2{
-    font-size: 30px;
+    font-size: 40px;
+    font-family: Vina Sans;
+    background-color: black;
+    color: white;
+    word-spacing: 60px;
+    letter-spacing: 5px;
+
 }
 
 img{
@@ -13,4 +21,18 @@ img{
     width: 800px;
     float:right;
 
+}
+p{
+    font-size: 25px;
+    margin-left: auto;
+    color: white;
+}
+
+h3{
+    font-size: 30px;
+    color: purple;
+}
+
+#hobbies{
+    font-size: 25px;
 }
